@@ -1,0 +1,3 @@
+"./home/clieny/code/vmware-sharefolder-start.sh"
+echo "shared folders connection..."
+
