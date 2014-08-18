@@ -9,7 +9,7 @@
 <h1>Instructions</h1>
 <ul>
 <li>Setup a share folder as a Machine (permanant) folder (see following picture)</li>
-<li><img src="#"></li>
+<li><img src="https://raw.githubusercontent.com/zackn9ne/transient/master/shared-folders.png"></li>
 <li><code>c:\sharewithguest</code>
 <li><code>~\sharepoint</code>
 <li>use the supplied script to connect these (note: you must reference what you have named the Share properly with the VMWare Application Machine folder.</li>
